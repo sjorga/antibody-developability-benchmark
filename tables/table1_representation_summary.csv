@@ -1,0 +1,5 @@
+Representation,Dimension,Description
+Global sequence descriptors,16,Paired heavy- and light-chain physicochemical descriptors
+Region-level descriptors,112,AHo region-level physicochemical descriptors
+ESM2-t6 protein language model embeddings,640,Concatenated heavy- and light-chain embeddings
+Structure-derived descriptors,5,"Surface hydrophobicity, aromaticity, polarity, charge, and total solvent-accessible surface area"

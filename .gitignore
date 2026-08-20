@@ -1,0 +1,44 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Operating system
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# IDEs
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Virtual environments
+# -------------------------
+.env
+.venv/
+venv/
+
+# -------------------------
+# Temporary pipeline files
+# -------------------------
+results/temp_structures/
+
+# -------------------------
+# Raw third-party dataset
+# -------------------------
+data/raw/*.csv
+# R
+.Rhistory
+.RData

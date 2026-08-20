@@ -1,0 +1,20 @@
+name: antibody-developability-benchmark
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python=3.10
+  - numpy=2.2.6
+  - pandas=2.3.3
+  - scipy=1.15.2
+  - matplotlib=3.10.9
+  - scikit-learn=1.7.2
+  - freesasa=2.2.1
+  - anarci=2024.05.21
+  - pip
+  - pip:
+      - torch==2.11.0
+      - fair-esm==2.0.0
+      - ImmuneBuilder==1.2
